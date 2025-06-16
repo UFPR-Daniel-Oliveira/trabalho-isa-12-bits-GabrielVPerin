@@ -464,77 +464,77 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(580,1050)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr5"/>
+      <a name="label" val="wr4"/>
     </comp>
     <comp lib="0" loc="(580,1220)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr6"/>
+      <a name="label" val="wr5"/>
     </comp>
     <comp lib="0" loc="(580,1390)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr7"/>
+      <a name="label" val="wr6"/>
     </comp>
     <comp lib="0" loc="(580,1560)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr8"/>
+      <a name="label" val="wr7"/>
     </comp>
     <comp lib="0" loc="(580,1730)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr9"/>
+      <a name="label" val="wr8"/>
     </comp>
     <comp lib="0" loc="(580,1900)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr10"/>
+      <a name="label" val="wr9"/>
     </comp>
     <comp lib="0" loc="(580,2070)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr11"/>
+      <a name="label" val="wr10"/>
     </comp>
     <comp lib="0" loc="(580,2240)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr12"/>
+      <a name="label" val="wr11"/>
     </comp>
     <comp lib="0" loc="(580,2410)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr13"/>
+      <a name="label" val="wr12"/>
     </comp>
     <comp lib="0" loc="(580,2580)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr14"/>
+      <a name="label" val="wr13"/>
     </comp>
     <comp lib="0" loc="(580,2750)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr15"/>
+      <a name="label" val="wr14"/>
     </comp>
     <comp lib="0" loc="(580,2920)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr16"/>
+      <a name="label" val="wr15"/>
     </comp>
     <comp lib="0" loc="(580,540)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr2"/>
+      <a name="label" val="wr1"/>
     </comp>
     <comp lib="0" loc="(580,710)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr3"/>
+      <a name="label" val="wr2"/>
     </comp>
     <comp lib="0" loc="(580,880)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
-      <a name="label" val="wr4"/>
+      <a name="label" val="wr3"/>
     </comp>
     <comp lib="0" loc="(640,350)" name="Constant">
       <a name="value" val="0x0"/>
@@ -603,7 +603,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(670,350)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr1"/>
+      <a name="label" val="sr0"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -611,7 +611,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,1030)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr5"/>
+      <a name="label" val="sr4"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -619,7 +619,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,1200)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr6"/>
+      <a name="label" val="sr5"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -627,7 +627,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,1370)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr7"/>
+      <a name="label" val="sr6"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -635,7 +635,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,1540)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr8"/>
+      <a name="label" val="sr7"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -643,7 +643,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,1710)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr9"/>
+      <a name="label" val="sr8"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -651,7 +651,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,1880)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr10"/>
+      <a name="label" val="sr9"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -659,7 +659,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,2050)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr11"/>
+      <a name="label" val="sr10"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -667,7 +667,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,2220)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr12"/>
+      <a name="label" val="sr11"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -675,7 +675,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,2390)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr13"/>
+      <a name="label" val="sr12"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -683,7 +683,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,2560)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr14"/>
+      <a name="label" val="sr13"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -691,7 +691,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,2730)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr15"/>
+      <a name="label" val="sr14"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -699,7 +699,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,2900)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr16"/>
+      <a name="label" val="sr15"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -707,7 +707,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,520)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr2"/>
+      <a name="label" val="sr1"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -715,7 +715,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,690)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr3"/>
+      <a name="label" val="sr2"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -723,7 +723,7 @@ d11 515 c31 512 811 d22 522 912
     <comp lib="0" loc="(790,860)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="sr4"/>
+      <a name="label" val="sr3"/>
       <a name="output" val="true"/>
       <a name="radix" val="16"/>
       <a name="width" val="12"/>
@@ -775,77 +775,77 @@ d11 515 c31 512 811 d22 522 912
     </comp>
     <comp lib="4" loc="(660,1000)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg5"/>
+      <a name="label" val="reg4"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,1170)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg6"/>
+      <a name="label" val="reg5"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,1340)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg7"/>
+      <a name="label" val="reg6"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,1510)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg8"/>
+      <a name="label" val="reg7"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,1680)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg9"/>
+      <a name="label" val="reg8"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,1850)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg10"/>
+      <a name="label" val="reg9"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,2020)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg11"/>
+      <a name="label" val="reg10"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,2190)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg12"/>
+      <a name="label" val="reg11"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,2360)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg13"/>
+      <a name="label" val="reg12"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,2530)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg14"/>
+      <a name="label" val="reg13"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,2700)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg15"/>
+      <a name="label" val="reg14"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,2870)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg16"/>
+      <a name="label" val="reg15"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,490)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg2"/>
+      <a name="label" val="reg1"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,660)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg3"/>
+      <a name="label" val="reg2"/>
       <a name="width" val="12"/>
     </comp>
     <comp lib="4" loc="(660,830)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
-      <a name="label" val="reg4"/>
+      <a name="label" val="reg3"/>
       <a name="width" val="12"/>
     </comp>
     <wire from="(120,320)" to="(130,320)"/>
