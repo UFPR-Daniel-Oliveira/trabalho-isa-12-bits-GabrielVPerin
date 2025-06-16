@@ -276,8 +276,8 @@
       <a name="appearance" val="logisim_evolution"/>
       <a name="contents">addr/data: 12 12
 d11 517 51d d22 412 322 a32 b32
-d11 515 c31 512 811 d22 522 611
-711 e21 f21 1f3 dff d22 2ef
+d11 515 c31 512 811 d22 522 912
+611 711 e21 f21 1f3 dff d22 2ef
 </a>
       <a name="dataWidth" val="12"/>
     </comp>
